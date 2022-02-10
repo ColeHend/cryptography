@@ -1,0 +1,11 @@
+---------------------Part 2------------------------
+!qazwsxedcrfvtgbyhnujmikolp
+i created it by pushing keys from the left side of the keyboard to the right.
+
+
+----------------------Part 3-----------------------
+
+Sony was hack in 2011 with millions of user info released. By a hacking group
+Called lulzsec to sew distrust in big corporations. And they used a simple
+sql injection. And hopefully they've started sanetizing the inputs before they
+try to inject the sql code to the database. 
